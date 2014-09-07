@@ -41,7 +41,7 @@
     "stringstream": "~0.0.4"
   },
   "scripts": {
-    "test": "node tests/run.js"
+    "test": "node arun.js"
   },
   "devDependencies": {
     "rimraf": "~2.2.8"
